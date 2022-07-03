@@ -1,8 +1,9 @@
+import Page from "./Page";
 
 function App() {
   return (
     <div className="">
-      ff
+      <Page />
     </div>
   );
 }
